@@ -1,6 +1,6 @@
 ---
 title: "Assignment1"
-output: md_document
+output: html_document
 ---
 
 ##Loading and preprocessing the data
